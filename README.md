@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my personal web site [a link](https://github.com/vinandros/personal-page)
+- 🌱 I’m currently learning UX/UI Design.
+- 👯 I’m looking to collaborate on React libraries or projects, I would like to learn TypeScript with React, and have a litter fun.
+
+*****
+- 📫 How to reach me: send me an email to vinandros@gmail.com
+- ⚡ Fun fact: Vin Andros came from my original name: Kevin Andres -> Vin Andros, tell me Andros.
 <!--
 **vinandros/vinandros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
