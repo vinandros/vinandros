@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my personal web site [a link](https://github.com/vinandros/personal-page)
+- 🔭 I’m currently working on my new personal web site [vinandros.com](https://github.com/vinandros/personal-page)
 - 🌱 I’m currently learning UX/UI Design.
 - 👯 I’m looking to collaborate on React libraries or projects, I would like to learn TypeScript with React, and have a litter fun.
 
