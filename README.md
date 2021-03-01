@@ -2,7 +2,7 @@
 
 I'm an enthusiastic Web Developer who likes to keep learning and trying new tecnologies, My favorite field is Front-end, but I'm always open to work with something new. I have a Bachellor Degree as a Software Engineer and experience working like Full-stack developer at Golabs.
 
-### This year goals 👋
+## This year goals 👋
 
 - 🔭 I’m currently working on my new personal web site [vinandros.com](https://github.com/vinandros/personal-page)
 - 🌱 I’m learning about UX/UI Design.
