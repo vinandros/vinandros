@@ -6,7 +6,7 @@ I'm an enthusiastic Web Developer who likes to keep learning and trying new tecn
 
 - 🔭 I’m currently working on my new personal web site [vinandros.com](https://github.com/vinandros/personal-page)
 - 🌱 I’m learning about UX/UI Design.
-- 👯 I’m looking to collaborate on React libraries or projects, I would like to learn TypeScript with React.
+- 👯 I’m looking to collaborate on React libraries or projects.
 
 ## My Values
 🧠 Willingness to learn <br/>
@@ -15,7 +15,7 @@ I'm an enthusiastic Web Developer who likes to keep learning and trying new tecn
 
 *****
 - 📫 How to reach me: send me an email to vinandros@gmail.com
-- ⚡ Fun fact: Vin Andros came from my original name: Kevin Andres -> Vin Andros, tell me Andros.
+- ⚡ Fun fact: Vin Andros came from my original name: Kevin Andres.
 
 
 <!--
